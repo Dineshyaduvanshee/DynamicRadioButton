@@ -9,7 +9,11 @@ const App = () => {
     { id: 2, name: 'python' },
     { id: 3, name: 'React Native' },
     { id: 4, name: 'AngularJs' },
-    { id: 5, name: '.Net' }
+    { id: 5, name: '.Net' },
+    { id: 6, name:'spring bootstrap' },
+    { id: 7, name: 'hibernate' },
+    { id: 8, name: 'html5' },
+    { id: 9, name: 'css' },
   ];
 
   return (
